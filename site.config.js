@@ -19,8 +19,8 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "dlwhdqh Archive",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    description: "...",
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
@@ -58,7 +58,7 @@ const CONFIG = {
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
-      label: "💬 Utterances",
+      label: " Utterances",
     },
   },
   cusdis: {
