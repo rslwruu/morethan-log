@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "dlwhdqh Archive",
     description: "...",
-    scheme: "light", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
