@@ -35,6 +35,9 @@ export type TPost = {
   thumbnail?: string
 }
 
+export type PostDetail = TPost & {
+  recordMap: ExtendedRecordMap
+}
 
 export type TPosts = TPost[]
 
