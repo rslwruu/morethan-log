@@ -8,7 +8,7 @@ const CONFIG = {
     email: "lrhkuunp@yonsei.ac.kr",
     linkedin: "",
     github: "rslwruu",
-    instagram: "suuddovoii",
+    instagram: "unwecfrte",
   },
   projects: [
     {
